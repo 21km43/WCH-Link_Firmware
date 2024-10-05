@@ -21,5 +21,5 @@ Flush WCH-LinkE example:
 ```bash
 wlink unprotect
 wlink erase
-wlink flush WCH-LinkE-APP-IAP.bin
+wlink flush ./WCH-LinkE-APP-IAP.bin
 ```
