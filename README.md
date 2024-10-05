@@ -1,4 +1,4 @@
-# WCH-Link_Firmware
+# WCH-Link Firmware
 
 * WCH-Link
 * WCH-LinkE
