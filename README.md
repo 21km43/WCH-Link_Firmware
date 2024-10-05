@@ -18,6 +18,8 @@ wlink: https://github.com/ch32-rs/wlink
 
 Flush WCH-LinkE example:
 
+Remember to run on IAP mode.
+
 ```bash
 wlink unprotect
 wlink erase
