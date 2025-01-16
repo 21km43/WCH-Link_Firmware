@@ -23,5 +23,5 @@ Remember to run on IAP mode.
 ```bash
 wlink unprotect
 wlink erase
-wlink flush ./WCH-LinkE-APP-IAP.bin
+wlink flash ./WCH-LinkE-APP-IAP.bin
 ```
