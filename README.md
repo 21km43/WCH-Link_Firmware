@@ -16,7 +16,7 @@ Current firmware version: 2.17 (aka. v37).
 
 wlink: https://github.com/ch32-rs/wlink
 
-Flush WCH-LinkE example:
+Flash WCH-LinkE example:
 
 Remember to run on IAP mode.
 
