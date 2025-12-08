@@ -16,7 +16,7 @@ Current firmware version: 2.19 (aka. v39).
 
 wlink: https://github.com/ch32-rs/wlink
 
-Flash WCH-LinkE example:
+Flash another WCH-LinkE example:
 
 Remember to run on IAP mode.
 
@@ -24,4 +24,10 @@ Remember to run on IAP mode.
 wlink unprotect
 wlink erase
 wlink flash ./WCH-LinkE-APP-IAP.bin
+```
+
+Upgrade self example:
+
+```bash
+wlink upgrade ./FIRMWARE_CH32V305.bin
 ```
