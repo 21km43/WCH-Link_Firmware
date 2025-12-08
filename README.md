@@ -9,7 +9,7 @@ Firmware list
 * WCH-LinkW
 * WCH-DAPLink
 
-Current firmware version: 2.17 (aka. v37).
+Current firmware version: 2.19 (aka. v39).
 > NOTE: The firmware version is not the same as the version shown by WCH's toolchain. Because WCH calculates the version number by major * 10 + minor, so the firmware version 2.10 is actually v30 0x020a.
 
 ## Flash firmware command (wlink)
